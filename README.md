@@ -1,2 +1,2 @@
 # FinRoadAI
-A non-coder experimenting with AI 
+A non-programmer experimenting with AI to learn about basic data analytics and quantitative trading 
